@@ -5,10 +5,10 @@
 - 🔭 I’m pusruing BS in Computer Science at <strong>[Islamia University Of Bahawalpur](https://www.iub.edu.pk/).</strong>
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-  - 🌱 I’m currently learning 
+- 🌱 I’m currently learning 
   <ul><li>advanced Machine Learning techniques and system-level problem solving,</li><li> Data Structures & Algorithms, </li><li> Database Management Systems, </li><li> Operating Systems, </li><li> Computer Networks, </li><li> Software Engineering, </li><li> Object-Oriented Programming, </li><li> Artificial Intelligence, </li><li> Machine Learning, </li><li> Data Science, </li><li> Data Mining, </li><li> Probability & Statistics, </li><li> Computer Architecture, </li><li> Theory of Automata, </li><li> Web Engineering</li></ul>
   
-  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Coding" style="max-width: 200px; height: auto;">
+  <img src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" alt="Coding" style="max-width: 500px; height: auto;">
 
 </div>
 
