@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm HAFIZ MUHAMMAD ASAD MUSTAFA</h1>
 <h3 align="center">A passionate developer from PAKISTAN</h3>
 
-<img align-"left" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" >
+<p><img align-"left" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" ></p>
 
 <p align="left"> <img src="https://pk.linkedin.com/in/hafiz-muhammad-asad-mustafa-40640a303" alt="hafiz-asad-2554" > </p>
 
 - 🔭 I’m pusruing BS in Computer Science at Islamia University Of Bahawalpur [https://www.iub.edu.pk/](https://www.iub.edu.pk/)
 
-- 🌱 I’m currently learning **advanced Machine Learning techniques and system-level problem solving, Data Structures & Algorithms Database Management Systems Operating Systems Computer Networks Software Engineering Object-Oriented Programming Artificial Intelligence Machine Learning Data Science Data Mining Probability & Statistics Computer Architecture Theory of Automata Web Engineering**
+- 🌱 I’m currently learning <ul>**<li>advanced Machine Learning techniques and system-level problem solving,</li><li> Data Structures & Algorithms, </li><li> Database Management Systems, </li><li> Operating Systems, </li><li> Computer Networks, </li><li> Software Engineering, </li><li> Object-Oriented Programming, </li><li> Artificial Intelligence, </li><li> Machine Learning, </li><li> Data Science, </li><li> Data Mining, </li><li> Probability & Statistics, </li><li> Computer Architecture, </li><li> Theory of Automata, </li><li> Web Engineering</li>**</ul>
 
 - 👨‍💻 All of my projects are available at [\..........](\..........)
 
