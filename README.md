@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm HAFIZ MUHAMMAD ASAD MUSTAFA</h1>
 <h3 align="center">A passionate developer from PAKISTAN</h3>
 
-<img align-"left" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" />
+<img align-"left" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" >
 
-<p align="left"> <img src="https://pk.linkedin.com/in/hafiz-muhammad-asad-mustafa-40640a303" alt="hafiz-asad-2554" /> </p>
+<p align="left"> <img src="https://pk.linkedin.com/in/hafiz-muhammad-asad-mustafa-40640a303" alt="hafiz-asad-2554" > </p>
 
 - 🔭 I’m pusruing BS in Computer Science at Islamia University Of Bahawalpur [https://www.iub.edu.pk/](https://www.iub.edu.pk/)
 
