@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm HAFIZ MUHAMMAD ASAD MUSTAFA</h1>
 <h3 align="center">A passionate developer from PAKISTAN</h3>
 
-<p align = "right"><img align-"right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" ></p>
 
 - 🔭 I’m pusruing BS in Computer Science at Islamia University Of Bahawalpur [https://www.iub.edu.pk/](https://www.iub.edu.pk/)
-
+<div display="block-inline">
 - 🌱 I’m currently learning <ul>**<li>advanced Machine Learning techniques and system-level problem solving,</li><li> Data Structures & Algorithms, </li><li> Database Management Systems, </li><li> Operating Systems, </li><li> Computer Networks, </li><li> Software Engineering, </li><li> Object-Oriented Programming, </li><li> Artificial Intelligence, </li><li> Machine Learning, </li><li> Data Science, </li><li> Data Mining, </li><li> Probability & Statistics, </li><li> Computer Architecture, </li><li> Theory of Automata, </li><li> Web Engineering</li>**</ul>
-
+</div><div display="block-inline"><p align = "right"><img align-"right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif" ></p></div>
 - 👨‍💻 All of my projects are available at [\..........](\..........)
 
 - 📝 My Research articles on [https://www.researchgate.net/profile/Hafiz-Muhammad-Asad-Mustafa](https://www.researchgate.net/profile/Hafiz-Muhammad-Asad-Mustafa)
